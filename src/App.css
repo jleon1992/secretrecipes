@@ -1,0 +1,32 @@
+
+
+
+
+
+input {
+  line-height: 17px;
+  border-radius: 3px;
+}
+
+.recipeForm{
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+}
+
+.addRecipe{
+  border: black 1px solid;
+  display: flex;
+  justify-content: center;
+}
+
+.recipeForm input{
+  margin: 2%;
+}
+
+.recipeForm button{
+  margin: 2%;
+  
+}
